@@ -2,7 +2,7 @@
 
 ## Getting Started
 1. Fork the repository.
-2. Clone your fork: `git clone https://github.com/Blockwis/miracoss.git`
+2. Clone your fork: `git clone https://github.com/placeparks/miracoss.git`
 3. Create a branch for your feature: `git checkout -b my-new-feature`
 4. Make your changes and commit them: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`

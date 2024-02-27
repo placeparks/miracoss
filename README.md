@@ -5,7 +5,7 @@ The Decentralized Task Management System is an open-source project aimed at util
 
 ## Installation
 To set up the project environment, follow these steps:
-1. Clone the repository: `git clone https://github.com/Blockwis/miracoss.git`
+1. Clone the repository: `git clone https://github.com/placeparks/miracoss.git`
 2. Navigate into the project directory: `cd miracoss`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
